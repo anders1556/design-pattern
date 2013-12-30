@@ -8,4 +8,9 @@
   <packaging>pom</packaging>
 
 
+  <modules>
+  	<module>builder</module>
+  	<module>compositer</module>
+    <module>iterator</module>
+  </modules>
 </project>
